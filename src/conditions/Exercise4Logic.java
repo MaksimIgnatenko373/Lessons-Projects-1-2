@@ -1,5 +1,4 @@
 package conditions;
-
 public class Exercise4Logic {
     public static void main(String[] args) {
         int a = 23;
