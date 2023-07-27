@@ -7,4 +7,5 @@ public class ArrayPractice2 {
         stringArray[1] = "Милан";
         stringArray[2] = "Неаполь";
     }
+
 }
