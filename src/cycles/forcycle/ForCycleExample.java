@@ -19,6 +19,5 @@ public class ForCycleExample {
         * кол-во '*' равных number
          */
 
-
     }
 }

@@ -1,5 +1,5 @@
 package arrays;
-//Задача 1. Создать заполнить массив от 99 до 0
+// Задача. Создать заполнить массив от 99 до 0
 public class ArrayPractice1 {
     public static void main(String[] args) {
         int[] firstArray = new int[100];
